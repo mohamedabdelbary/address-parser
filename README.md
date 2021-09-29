@@ -120,3 +120,7 @@ The scripts for sampling, pre-processing and training should be usable out-of-th
 access to the data. See [here](https://www.poweredbypaf.com/product/paf/) for more details on PAF data and how you can
 get access to it.
 
+# NOTE on the fork
+
+You will have noticed that this repo is a fork of duedil-ltd/address-parser. There won't be any active development on the original version in duedil-ltd, and further development will be on this fork. So for the purposes of getting the most up to date version, use this fork.
+
